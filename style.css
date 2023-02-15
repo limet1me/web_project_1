@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Comic Sans MS", cursive;
+  font-size: 20px;
+  line-height: 30px;
+  color: #7CFF;
+}
+
+h1 {
+  width: 300px;
+  margin: 0 auto 50px;
+  font-family: "Georgia", serif;
+  text-align: center;
+	text-shadow: 1px 1px 2px darkslateblue;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 64px;
+  padding-top: 50px;
+}
+
+h2 {
+  text-decoration-line: underline overline;
+  text-decoration-style: dashed;
+  text-underline-position: under;
+  height: 1px;
+  padding-bottom: 30px;
+}
+
+h3{
+  border-bottom: 4px solid #7CFF;
+  padding-bottom: 10px;
+}
+.site-header {
+  min-width: 960px;
+  height: 329px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #847462 no-repeat center url("img/risya-baner.png");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.podzagolovok {
+  width: 1525px;
+  text-align: center;
+}
+
+.section {
+  width: 750px;
+  margin: 0 auto 50px;
+}
+
+.icon p{
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.icon-ps {
+  padding-top: 100px;
+  background-image: url("img/Photoshop.png");
+}
+
+.icon-vrs {
+  padding-top: 100px;
+  background-image: url("img/vrs.png");
+}
+
+.icon-vsf {
+  padding-top: 100px;
+  background-image: url("img/vsf.png");
+}
+
+.icon-obs {
+  padding-top: 100px;
+  background-image: url("img/obs.png");
+}
+
+.icon-time {
+  padding-top: 100px;
+  background-image: url("img/time.png");
+}
+
+.icon-im {
+  padding-top: 100px;
+  background-image: url("img/im.png");
+}
